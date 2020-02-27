@@ -1,0 +1,2 @@
+# Solo
+Error 505
